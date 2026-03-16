@@ -1,6 +1,5 @@
 🛡️ Cyber Deception Honeypot Project
---> Overview
-
+-
 This project is a Cyber Deception Honeypot built using Python.
 It simulates a vulnerable login service to attract, detect, and log fake cyber-attacks in a safe and controlled environment.
 
@@ -49,7 +48,6 @@ Just double-click:
 
 start_project.bat
 
-
 This will:
 
 Start the honeypot
@@ -77,7 +75,7 @@ Severity
 
 Username & password used
 
---> Features
+--> Main Features
 
 Fake login honeypot
 
@@ -91,14 +89,9 @@ Live web dashboard
 
 One-click execution
 
---> Disclaimer
-
-This project is developed strictly for educational purposes.
-All attacks are simulated locally and do not harm any system or network.
-
 --> Author
 
-Vaishnavi
+Prerana
 
 -->License
 
