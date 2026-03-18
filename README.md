@@ -89,6 +89,17 @@ Live web dashboard
 
 One-click execution
 
+## 📊 Project Output
+
+### 🔹 Attack Logs
+![Attack Logs](attack_logs.png)
+
+### 🔹 Flask Server Running
+![Server](server.png)
+
+### 🔹 Live Dashboard
+![Dashboard](dashboard.png)
+
 --> Author
 
 Prerana
