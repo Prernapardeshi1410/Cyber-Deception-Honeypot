@@ -32,6 +32,7 @@ JSON (Log Storage)
 Windows Batch Script (One-click execution)
  
 --> How to Run the Project
+
 Step 1: Install Python
 
 Make sure Python 3 is installed.
